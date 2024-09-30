@@ -1,6 +1,6 @@
 {
   "name": "@entrepan/langutils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "Jesús Seijas",
   "license": "MIT",
   "dependencies": {
-    "@entrepan/core": "^1.0.7"
+    "@entrepan/core": "^1.0.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.10.0",
